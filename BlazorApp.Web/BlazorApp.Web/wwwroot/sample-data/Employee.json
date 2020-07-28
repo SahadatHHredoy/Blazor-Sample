@@ -1,0 +1,30 @@
+[
+  {
+    "id": 10001,
+    "name": "Anowarul Alam",
+    "fatherName": "Shajadul Alam",
+    "phoneNo": "01840486544",
+    "email": "anowarulalam@gmail.com"
+  },
+  {
+    "id": 10002,
+    "name": "Johir Maladar",
+    "fatherName": "Monsur Maladar",
+    "phoneNo": "018446786544",
+    "email": "anowarulalam@gmail.com"
+  },
+  {
+    "id": 10003,
+    "name": "Anowarul Alam",
+    "fatherName": "Shajadul Alam",
+    "phoneNo": "01840486544",
+    "email": "anowarulalam@gmail.com"
+  },
+  {
+    "id": 10004,
+    "name": "Johir Maladar",
+    "fatherName": "Monsur Maladar",
+    "phoneNo": "018446786544",
+    "email": "anowarulalam@gmail.com"
+  }
+]
